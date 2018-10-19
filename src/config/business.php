@@ -31,7 +31,7 @@ $config['http']['root'] = [
     'backend.message.lerzen.com' =>
         [
             'root' => 'backend',
-            'index' => 'Index.html'
+            'index' => 'index.html'
         ]
 ];
 
