@@ -2,7 +2,7 @@
 
 使用 [Swoole Distributed](http://sd.youwoxing.net/) 开发的留言板服务端，提供如下功能：
 
-### 用户端
+### [用户端](https://github.com/jormin/message-frontend)
 
 - 用户注册
 
@@ -34,7 +34,7 @@
 
     允许用户查看留言后发表评论，评论内容限定140个字符以内
     
-### 管理端
+### [管理端](https://github.com/jormin/message-backend)
 
 - 用户管理
     
@@ -47,6 +47,12 @@
 - 评论管理
 
     允许管理员查看指定留言的评论列表，并允许删除评论
+    
+## 文档
+
+- [数据库设计文档](doc\数据库设计文档.md)
+
+- [数据字典文档](doc\数据字典文档.md)
     
 ## 安装
 
@@ -61,6 +67,10 @@
     ```
     composer install -vvv
     ```
+    
+- 导入数据库
+
+    数据库文件为 `data\message.sql` ,自行在数据库中创建数据库并导入数据文件
 
 - 修改配置
 
