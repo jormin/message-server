@@ -23,12 +23,12 @@ $config['http']['root'] = [
             'index' => 'index.html'
         ]
     ,
-    'message.lerzen.com' =>
+    'message.local.com' =>
         [
             'root' => 'frontend',
             'index' => 'index.html'
         ],
-    'backend.message.lerzen.com' =>
+    'backend.local.lerzen.com' =>
         [
             'root' => 'backend',
             'index' => 'index.html'
