@@ -81,6 +81,9 @@
     # 修改参数配置
     vim src/config/params.php
     
+    # 修改站点配置
+    vim src/config/business.php
+    
     # 修改数据库配置
     vim src/config/mysql.php
     
@@ -96,6 +99,10 @@
     ```
     php bin/start_swoole_server.php stary -de
     ```
+
+## nginx代理
+
+项目使用nginx代理来解决用户端和管理端接口请求跨域的问题，代理配置文件为`proxy/proxy.nginx.conf`
 
 ## 配置项说明
 

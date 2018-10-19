@@ -23,30 +23,15 @@ $config['http']['root'] = [
             'index' => 'index.html'
         ]
     ,
-    'localhost' =>
+    'message.lerzen.com' =>
         [
-            'root' => 'www',
-            'index' => 'Index.html'
-        ],
-    'sder.xin' =>
-        [
-            'root' => 'www',
-            'index' => 'Index.html'
-        ],
-    'www.sder.xin' =>
-        [
-            'root' => 'www',
-            'index' => 'Index.html'
-        ],
-    '182.92.224.125' =>
-        [
-            'root' => 'docs',
+            'root' => 'frontend',
             'index' => 'index.html'
         ],
-    'docs.sder.xin' =>
+    'backend.message.lerzen.com' =>
         [
-            'root' => 'docs',
-            'index' => 'index.html'
+            'root' => 'backend',
+            'index' => 'Index.html'
         ]
 ];
 

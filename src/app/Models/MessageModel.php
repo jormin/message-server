@@ -53,7 +53,7 @@ class MessageModel extends BaseModel
      * @return string
      */
     public function makeQuerySql($query, $count=false, $page=null, $limit=null, $noDeleted=true, $content=false){
-        $column = 'm.id as id, m.title as title, su.name as sender, su.gender as gender, ru.name as receiver, a.path as attachment, m.created_at';
+        $column = 'm.id as id, m.title as title, su.name as sender, su.gender as gender, ru.name as receiver, a.path as attachment, m.ip, m.ip_address, m.created_at';
         if($content === true){
             $column .= ', m.content';
         }
