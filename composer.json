@@ -1,0 +1,16 @@
+{
+  "require": {
+    "tmtbe/swooledistributed":">2.0.0",
+    "jormin/aliyun": "^0.0.2",
+    "jormin/ip": "^1.0",
+    "jormin/qiniu": "^1.0",
+    "chrisboulton/php-resque": "^1.2",
+    "swiftmailer/swiftmailer": "^6.1"
+  },
+ "autoload": {
+    "psr-4": {
+      "app\\": "src/app",
+      "test\\": "src/test"
+    }
+  }
+}

@@ -1,0 +1,640 @@
+[2018-10-12 04:04:40 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:37:01 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:37:31 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:37:47 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:37:52 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:38:11 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:38:22 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:38:29 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:38:36 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:38:43 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:38:55 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:40:19 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:41:03 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:41:08 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:41:24 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:41:34 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:43:09 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:43:15 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:45:15 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:45:45 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:46:04 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:46:10 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:46:17 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:46:41 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:46:56 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:47:28 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 05:47:38 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 06:46:54 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 06:50:04 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 06:50:10 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:08:53 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:09:04 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:12:09 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:12:31 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:13:41 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:14:32 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:15:08 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:15:14 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:19:37 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:19:42 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:19:48 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:20:03 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:21:05 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:21:56 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:22:09 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:22:26 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:22:32 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:23:04 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:25:00 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:27:19 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:27:41 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:27:52 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:28:09 $6268.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:28:13 *25636.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught TypeError: Argument 1 passed to Server\Components\AOP\AOP::getAOP() must implement interface Server\Components\AOP\IAOP, instance of Redis given, called in /home/vagrant/code/sd/vendor/tmtbe/swooledistributed/src/Server/CoreBase/ControllerFactory.php on line 66 and defined in /home/vagrant/code/sd/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/AOP.php:37
+Stack trace:
+#0 /home/vagrant/code/sd/vendor/tmtbe/swooledistributed/src/Server/CoreBase
+[2018-10-12 07:28:13 $6268.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-12 07:29:17 $25661.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:32:51 $25661.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:35:55 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:36:43 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:37:17 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:39:16 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:39:23 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:42:36 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:43:11 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:43:39 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:44:20 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:44:32 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:44:44 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:44:51 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:44:58 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:45:20 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:45:26 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:45:50 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:45:58 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:46:04 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:46:22 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:47:08 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:49:25 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:50:06 $25830.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:50:32 $26275.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:51:26 $26415.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:52:38 $26415.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:52:53 $26415.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:53:06 $26415.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:53:18 $26415.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:53:35 $26415.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:54:05 $26415.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:54:18 $26415.0]	NOTICE	Server is reloading now.
+[2018-10-12 07:54:31 $26637.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:05:45 $26829.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:12:39 $26829.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:12:45 $26829.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:13:42 $27073.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:13:47 $27073.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:36:20 $27312.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:36:28 $27312.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:37:00 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:37:05 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:40:18 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:40:52 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:40:58 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:41:38 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:42:19 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:42:30 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:42:36 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:42:41 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:43:14 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:43:31 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:44:07 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:44:32 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:45:38 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:45:44 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:46:01 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:46:06 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:46:18 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:46:55 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:47:01 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:47:09 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:47:19 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:47:25 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:47:31 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:48:19 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:48:24 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:48:31 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:49:54 $27460.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:58:22 $27995.0]	NOTICE	Server is reloading now.
+[2018-10-12 08:59:00 $27995.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:03:41 $27995.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:04:09 $27995.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:04:23 $27995.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:04:28 $27995.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:04:38 $28195.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:05:09 $28195.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:05:26 $28195.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:05:52 $28195.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:05:59 $28364.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:07:03 $28364.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:07:11 $28364.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:07:21 $28364.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:07:27 $28364.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:07:37 $28364.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:07:42 $28364.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:07:58 $28560.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:10:16 $28560.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:11:11 $28560.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:11:20 $28560.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:11:43 $28560.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:11:50 $28800.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:18:10 $28800.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:18:17 $28969.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:19:58 $28969.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:24:21 $29138.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:28:57 $29304.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:32:02 $29476.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:32:24 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:41:53 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:45:08 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:45:46 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:46:06 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:46:42 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:47:01 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:47:11 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:47:34 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:47:42 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:48:11 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:48:56 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:50:01 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:50:38 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:50:53 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:51:09 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:52:02 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:54:46 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:54:51 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:54:56 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:55:02 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:55:06 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:55:19 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:57:00 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 09:59:06 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:00:03 $29744.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:00:19 $30289.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:00:23 $30289.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:00:33 $30436.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:00:37 $30436.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:00:41 $30436.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:00:45 $30436.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:00:50 $30436.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:01:01 $30611.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:01:05 $30611.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:01:10 $30611.0]	NOTICE	Server is reloading now.
+[SYS]	已开启代码热重载
+[CatCache]	已完成加载缓存文件
+[SYS]	非inotify模式，性能极低，不建议在正式环境启用。请安装inotify扩展
+[RELOAD]	/home/vagrant/code/sd/src/app/Route/ApiRoute.php update
+[2018-10-12 10:06:25 $30792.0]	NOTICE	Server is reloading now.
+[RELOAD]	/home/vagrant/code/sd/src/app/Models/MessageModel.php update
+[2018-10-12 10:06:28 $30792.0]	NOTICE	Server is reloading now.
+[RELOAD]	/home/vagrant/code/sd/src/config/business.php update
+[2018-10-12 10:06:33 $30792.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:09:13 #30791.4]	NOTICE	Server is shutdown now.
+[Process:10]	Server\Components\Cluster\ClusterProcess关闭成功
+[CatCache]	缓存保存成功
+[Process:11]	Server\Components\CatCache\CatCacheProcess关闭成功
+[Process:9]	Server\Components\SDHelp\SDHelpProcess关闭成功
+[SYS]	顺利关服
+[SYS]	已开启代码热重载
+[CatCache]	已完成加载缓存文件
+[SYS]	非inotify模式，性能极低，不建议在正式环境启用。请安装inotify扩展
+[RELOAD]	/home/vagrant/code/sd/src/app/Route/ApiRoute.php update
+[2018-10-12 10:09:19 $31022.0]	NOTICE	Server is reloading now.
+[RELOAD]	/home/vagrant/code/sd/src/app/Models/MessageModel.php update
+[2018-10-12 10:09:24 $31022.0]	NOTICE	Server is reloading now.
+[RELOAD]	/home/vagrant/code/sd/src/config/business.php update
+[2018-10-12 10:09:28 $31022.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:09:47 $31208.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:09:51 $31208.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:09:54 $31208.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:13:02 $31208.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:13:10 $31208.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:13:39 $31208.0]	NOTICE	Server is reloading now.
+[2018-10-12 10:16:09 $31208.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:04:56 $31585.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:05:47 $31727.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:06:20 $31727.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:06:25 $31727.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:06:35 $31890.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:06:58 $31890.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:07:03 $31890.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:07:21 $32047.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:07:41 $32047.0]	NOTICE	Server is reloading now.
+[2018-10-12 11:07:52 $32196.0]	NOTICE	Server is reloading now.
+[SYS]	已开启代码热重载
+[CatCache]	已完成加载缓存文件
+[SYS]	非inotify模式，性能极低，不建议在正式环境启用。请安装inotify扩展
+[RELOAD]	/home/vagrant/code/sd/src/app/Route/ApiRoute.php update
+[2018-10-12 11:10:12 $32397.0]	NOTICE	Server is reloading now.
+insertinsert[2018-10-12 11:11:18 $32555.0]	NOTICE	Server is reloading now.
+[2018-10-15 08:31:14 $23076.0]	NOTICE	Server is reloading now.
+[2018-10-15 08:33:49 $23076.0]	NOTICE	Server is reloading now.
+[2018-10-15 09:42:49 *24584.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function validate() on null in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(22): app\Controllers\Api\BaseController->validate('post', Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Component
+[2018-10-15 09:42:49 $24570.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 09:44:16 *24688.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function validate() on null in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(22): app\Controllers\Api\BaseController->validate('post', Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Component
+[2018-10-15 09:44:16 $24570.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 09:44:28 *24718.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function validate() on null in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(22): app\Controllers\Api\BaseController->validate('post', Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Component
+[2018-10-15 09:44:28 $24704.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 09:54:38 *25804.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 09:54:38 $25790.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 09:55:13 *25938.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 09:55:13 $25924.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 09:58:29 *26090.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 09:58:29 $26076.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 09:59:32 *26222.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 09:59:32 $26208.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 09:59:58 *26353.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 09:59:58 $26339.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:07:55 *26770.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:07:55 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:08:09 *26874.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:08:09 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:08:16 *26875.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:08:16 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:08:20 *26877.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:08:20 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:08:56 *26878.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:08:56 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:09:00 *26880.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:09:00 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:09:20 *26881.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:09:20 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:09:25 *26934.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:09:25 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:09:28 *26935.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:09:28 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:09:31 *26936.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:09:31 $26756.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:09:37 *26963.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:09:37 $26949.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:10:37 *27100.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:10:37 $27086.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-15 10:58:48 *27926.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(23): Server\CoreBase\HttpOutput->end(Array)
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegister()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components
+[2018-10-15 10:58:48 $27912.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 03:05:16 *31322.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'app\Lib\Validator' not found in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Memory/Pool.php:52
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(93): Server\Memory\Pool->get('app\\Lib\\Validat...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(38): app\Controllers\Api\BaseController->validate('post', Array)
+#2 [internal function]: app\Control
+[2018-10-16 03:05:16 $31308.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 03:55:18 *1187.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:59
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(46): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegisterCode()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server
+[2018-10-16 03:55:18 $1168.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 03:56:20 *1335.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:60
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AuthController.php(46): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\AuthController->actionRegisterCode()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server
+[2018-10-16 03:56:20 $1321.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 04:55:05 $1878.0]	NOTICE	Server is reloading now.
+[2018-10-16 05:05:26 *2521.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught TypeError: Argument 2 passed to app\Controllers\Api\BaseController::success() must be of the type array or null, object given, called in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/UploadController.php on line 16 and defined in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:42
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/UploadController.php(16): app\Controllers\Api\BaseController->
+[2018-10-16 05:05:26 $1878.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 05:14:37 *3054.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '../../config/params.php' (include_path='.:/usr/share/php') in /home/vagrant/code/message/src/app/Middlewares/ParamsMiddleware.php on line 20.
+[2018-10-16 05:14:37 $3040.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 11:09:12 *8829.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/TokenController.php:31
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/UploadController.php(24): app\Controllers\Api\Frontend\TokenController->initialization('Api\\Frontend\\Up...', 'actionToken')
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Controller.php(161): app\Controlle
+[2018-10-16 11:09:12 $8815.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 11:14:45 *9555.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(32): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(57): app\Controllers\Api\BaseController->json(0, '\xE8\xAF\xB7\xE8
+[2018-10-16 11:14:45 $9541.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 11:14:57 *9679.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(32): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(57): app\Controllers\Api\BaseController->json(0, '\xE8\xAF\xB7\xE8
+[2018-10-16 11:14:57 $9541.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 11:15:26 *9711.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(32): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(57): app\Controllers\Api\BaseController->json(0, '\xE8\xAF\xB7\xE8
+[2018-10-16 11:15:26 $9697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 11:17:17 *9862.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(32): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(57): app\Controllers\Api\BaseController->json(0, '\xE8\xAF\xB7\xE8
+[2018-10-16 11:17:17 $9848.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 11:19:19 *10006.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(32): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(57): app\Controllers\Api\BaseController->json(0, '\xE8\xAF\xB7\xE8
+[2018-10-16 11:19:19 $9992.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 11:20:07 *10138.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(32): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(57): app\Controllers\Api\BaseController->json(0, '\xE8\xAF\xB7\xE8
+[2018-10-16 11:20:07 $10124.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 15:59:07 *12812.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught ArgumentCountError: Too few arguments to function app\Models\UserModel::findByPhone(), 1 passed and exactly 2 expected in /home/vagrant/code/message/src/app/Models/UserModel.php:91
+Stack trace:
+#0 [internal function]: app\Models\UserModel->findByPhone('18702982564')
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/Proxy.php(31): call_user_func_array(Array, Array)
+#2 /home/vagrant/code/message/src/app/Services/Auth
+[2018-10-16 15:59:07 $12798.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 15:59:28 *12916.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught ArgumentCountError: Too few arguments to function app\Models\UserModel::findByPhone(), 1 passed and exactly 2 expected in /home/vagrant/code/message/src/app/Models/UserModel.php:91
+Stack trace:
+#0 [internal function]: app\Models\UserModel->findByPhone('18702982564')
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/Proxy.php(31): call_user_func_array(Array, Array)
+#2 /home/vagrant/code/message/src/app/Services/Auth
+[2018-10-16 15:59:28 $12798.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 17:28:11 *15399.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/TokenController.php:31
+Stack trace:
+#0 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Controller.php(161): app\Controllers\Api\Frontend\TokenController->initialization('Api\\Frontend\\Ac...', 'actionInfo')
+#1 [internal function]: Server\CoreBase\Controller->execute('Api\\Frontend\\Ac...', 'actionInfo', NULL)
+[2018-10-16 17:28:11 $15385.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 17:28:27 *15761.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/TokenController.php:31
+Stack trace:
+#0 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Controller.php(161): app\Controllers\Api\Frontend\TokenController->initialization('Api\\Frontend\\Ac...', 'actionInfo')
+#1 [internal function]: Server\CoreBase\Controller->execute('Api\\Frontend\\Ac...', 'actionInfo', NULL)
+[2018-10-16 17:28:27 $15385.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-16 17:28:37 *15789.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/TokenController.php:31
+Stack trace:
+#0 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Controller.php(161): app\Controllers\Api\Frontend\TokenController->initialization('Api\\Frontend\\Ac...', 'actionInfo')
+#1 [internal function]: Server\CoreBase\Controller->execute('Api\\Frontend\\Ac...', 'actionInfo', NULL)
+[2018-10-16 17:28:37 $15775.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 03:15:21 *23965.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php:44
+Stack trace:
+#0 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/Proxy.php(31): call_user_func_array(Array, Array)
+#2 [internal function]: Server\Components\AOP\Proxy->__call('actionCom
+[2018-10-17 03:15:21 $23951.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 03:26:43 *24807.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Controller.php(235): Server\CoreBase\HttpOutput->end('token auth fail...')
+#1 [internal function]: Server\CoreBase\Controller->onExceptionHandle(Object(Exception))
+#2 /home/vagrant/code/message/vendor/tmtbe/swoole
+[2018-10-17 03:26:43 $24793.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 03:26:43 *24912.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Controller.php(235): Server\CoreBase\HttpOutput->end('token auth fail...')
+#1 [internal function]: Server\CoreBase\Controller->onExceptionHandle(Object(Exception))
+#2 /home/vagrant/code/message/vendor/tmtbe/swoole
+[2018-10-17 03:26:43 $24793.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 03:27:25 *24940.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Controller.php(235): Server\CoreBase\HttpOutput->end('token auth fail...')
+#1 [internal function]: Server\CoreBase\Controller->onExceptionHandle(Object(Exception))
+#2 /home/vagrant/code/message/vendor/tmtbe/swoole
+[2018-10-17 03:27:25 $24926.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 03:27:42 *25044.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function gzip() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:106
+Stack trace:
+#0 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Controller.php(235): Server\CoreBase\HttpOutput->end('token auth fail...')
+#1 [internal function]: Server\CoreBase\Controller->onExceptionHandle(Object(Exception))
+#2 /home/vagrant/code/message/vendor/tmtbe/swoole
+[2018-10-17 03:27:42 $24926.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 03:44:23 *25201.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php:44
+Stack trace:
+#0 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/Proxy.php(31): call_user_func_array(Array, Array)
+#2 [internal function]: Server\Components\AOP\Proxy->__call('actionCom
+[2018-10-17 03:44:23 $25187.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 03:54:44 *25761.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php:44
+Stack trace:
+#0 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/Proxy.php(31): call_user_func_array(Array, Array)
+#2 [internal function]: Server\Components\AOP\Proxy->__call('actionCom
+[2018-10-17 03:54:44 $25747.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 03:56:34 *25759.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php:44
+Stack trace:
+#0 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/Proxy.php(31): call_user_func_array(Array, Array)
+#2 [internal function]: Server\Components\AOP\Proxy->__call('actionCom
+[2018-10-17 03:56:34 $25747.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-17 04:08:52 *25758.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php:44
+Stack trace:
+#0 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/Proxy.php(31): call_user_func_array(Array, Array)
+#2 [internal function]: Server\Components\AOP\Proxy->__call('actionCom
+[2018-10-17 04:08:52 $25747.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-10-17 04:27:43 *27511.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php:46
+Stack trace:
+#0 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Components/AOP/Proxy.php(31): call_user_func_array(Array, Array)
+#2 [internal function]: Server\Components\AOP\Proxy->__call('actionCom
+[2018-10-17 04:27:43 $27500.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-10-17 04:30:37 *27647.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:79
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php(49): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/sr
+[2018-10-17 04:30:37 $27636.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-10-17 04:31:30 *27780.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:79
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php(48): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/sr
+[2018-10-17 04:31:30 $27768.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-17 04:32:16 *27917.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:79
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php(39): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/sr
+[2018-10-17 04:32:16 $27905.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-17 04:32:51 *28048.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:79
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php(37): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/sr
+[2018-10-17 04:32:51 $28036.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-17 04:33:52 *28180.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:79
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php(37): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/sr
+[2018-10-17 04:33:52 $28168.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-17 04:34:42 *28311.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:79
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/MessageController.php(38): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\MessageController->actionCommonMessages()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/sr
+[2018-10-17 04:34:42 $28299.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-17 09:20:29 *755.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(46): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(63): app\Controllers\Api\BaseController->json(1, '\xE7\x99\xBB\xE5
+[2018-10-17 09:20:29 $741.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 09:20:29 *860.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(46): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(63): app\Controllers\Api\BaseController->json(1, '\xE7\x99\xBB\xE5
+[2018-10-17 09:20:29 $741.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 09:22:13 *861.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(46): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(63): app\Controllers\Api\BaseController->json(1, '\xE7\x99\xBB\xE5
+[2018-10-17 09:22:13 $741.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 09:22:14 *875.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(46): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(63): app\Controllers\Api\BaseController->json(1, '\xE7\x99\xBB\xE5
+[2018-10-17 09:22:14 $741.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 09:23:32 *876.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(46): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(63): app\Controllers\Api\BaseController->json(1, '\xE7\x99\xBB\xE5
+[2018-10-17 09:23:32 $741.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 09:23:32 *880.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(46): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(63): app\Controllers\Api\BaseController->json(1, '\xE7\x99\xBB\xE5
+[2018-10-17 09:23:32 $741.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 09:30:00 *881.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(46): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(63): app\Controllers\Api\BaseController->json(1, '\xE7\x99\xBB\xE5
+[2018-10-17 09:30:00 $741.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-17 09:30:00 *908.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function header() on null in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/HttpOutput.php:91
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(46): Server\CoreBase\HttpOutput->setHeader('Content-type', 'application/jso...')
+#1 /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php(63): app\Controllers\Api\BaseController->json(1, '\xE7\x99\xBB\xE5
+[2018-10-17 09:30:00 $741.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-18 02:59:26 *6869.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:60
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Backend/MessageController.php(67): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Backend\MessageController->actionDetail()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/C
+[2018-10-18 02:59:26 $6855.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-18 06:48:24 *16324.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to undefined method app\Jobs\SMSJob::onAddChild() in /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/CoreBase/Child.php:57
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Loaders/CustomLoader.php(81): Server\CoreBase\Child->addChild(Object(app\Jobs\SMSJob))
+#1 /home/vagrant/code/message/src/app/Services/AuthService.php(48): app\Loaders\CustomLoader->job('SMSJob', Object(app\Services\AuthService))
+#2 /home/vagrant/co
+[2018-10-18 06:48:24 $16310.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-18 07:47:50 *31945.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function getParam() on null in /home/vagrant/code/message/src/app/Traits/SMSTrait.php:25
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Services/AuthService.php(67): app\Services\BaseService->sendSms(0, '17792738795', Array)
+#1 [internal function]: app\Services\AuthService->sendRegisterCode('17792738795')
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Coroutine/CoroutineTask.php(95): Generator->send
+[2018-10-18 07:47:50 $31931.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-18 07:49:10 *32083.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Trait method getConfig has not been applied, because there are collisions with other trait methods on app\Services\BaseService in /home/vagrant/code/message/src/app/Services/BaseService.php on line 17.
+[2018-10-18 07:49:10 $32069.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-18 08:55:40 *1400.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to undefined method app\Services\MessageService::combineMessages() in /home/vagrant/code/message/src/app/Services/MessageService.php:119
+Stack trace:
+#0 [internal function]: app\Services\MessageService->getCommonMessages('0')
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Coroutine/CoroutineTask.php(95): Generator->send(Array)
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Coroutine/Corouti
+[2018-10-18 08:55:40 $1388.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-18 11:55:01 *5265.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type Generator as array in /home/vagrant/code/message/src/app/Controllers/Api/BaseController.php:60
+Stack trace:
+#0 /home/vagrant/code/message/src/app/Controllers/Api/Frontend/AccountController.php(54): app\Controllers\Api\BaseController->autoReturn(Object(Generator))
+#1 [internal function]: app\Controllers\Api\Frontend\AccountController->actionLogout()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server
+[2018-10-18 11:55:01 $5251.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-18 16:33:03 *8365.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to undefined method app\Models\MessageCommentModel::combineMessages() in /home/vagrant/code/message/src/app/Models/MessageCommentModel.php:34
+Stack trace:
+#0 [internal function]: app\Models\MessageCommentModel->searchMessages(Array, 0, 15)
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Coroutine/CoroutineTask.php(71): Generator->send(Array)
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Cor
+[2018-10-18 16:33:03 $8353.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-18 16:34:18 *8631.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to undefined method app\Models\MessageCommentModel::combineMessage() in /home/vagrant/code/message/src/app/Models/MessageCommentModel.php:196
+Stack trace:
+#0 [internal function]: app\Models\MessageCommentModel->combineComments(Array)
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Coroutine/CoroutineTask.php(59): Generator->current()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Coroutine/C
+[2018-10-18 16:34:18 $8619.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-10-19 02:18:02 *12570.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function sendEmail() on null in /home/vagrant/code/message/src/app/Controllers/Api/Backend/UserController.php:39
+Stack trace:
+#0 [internal function]: app\Controllers\Api\Backend\UserController->actionIndex()
+#1 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Coroutine/CoroutineTask.php(59): Generator->current()
+#2 /home/vagrant/code/message/vendor/tmtbe/swooledistributed/src/Server/Coroutine/CoroutineTask.p
+[2018-10-19 02:18:02 $12551.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
